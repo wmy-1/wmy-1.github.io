@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D. student from [School of SE](cs.zju.edu.cn/),[ZJU](zju.edu.cn/).
+I'm a second-year Ph.D. student from [School of SE](https://cs.zju.edu.cn/),[ZJU](zju.edu.cn/).
 My research mainly insterested in Embodied AI, but now I'm doing some research in VLM model which mainly aims at emigrating hallucination problems.
 
 
