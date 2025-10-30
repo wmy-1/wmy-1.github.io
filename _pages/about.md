@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D. student from [School of SE](https://www.cs.zju.edu.cn/),[ZJU](http://www.zju.edu.cn/).
-My research mainly insterested in Embodied AI, but now I'm doing some research in VLM model which mainly aims at emigrating hallucination problems.
+I'm a second-year Ph.D. student from [School of SE](http://www.en.cs.zju.edu.cn/),[ZJU](http://www.zju.edu.cn/english/).
+My research mainly insterested in Embodied AI, but now I'm doing some research in VLM model which mainly aims at mitigating hallucination problems.
 
 
 Academic Accomplishments
@@ -18,7 +18,7 @@ None.
 
 Current Work
 ======
-Secret
+VisualBayes: Mitigationg Object Hallucination via Parallel Visual Bayes Decoding
 
 
 
